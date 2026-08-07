@@ -1,0 +1,31 @@
+Name,Course,Attendance,Assignment_Score,Midterm_Score,Final_Score,Result
+Student_1,AI/ML,51,87,57,55,1
+Student_2,Web Dev,58,87,46,83,1
+Student_3,AI/ML,87,67,42,41,0
+Student_4,AI/ML,63,54,72,78,1
+Student_5,AI/ML,85,52,85,81,1
+Student_6,SQA,64,68,77,57,1
+Student_7,AI/ML,98,91,50,84,1
+Student_8,SQA,71,57,49,53,1
+Student_9,MERN,56,45,64,46,0
+Student_10,MERN,72,78,56,91,1
+Student_11,AI/ML,96,69,74,47,0
+Student_12,SQA,55,75,58,93,1
+Student_13,MERN,86,52,85,44,0
+Student_14,AI/ML,92,54,89,58,1
+Student_15,AI/ML,64,95,46,64,1
+Student_16,MERN,79,80,93,63,1
+Student_17,Web Dev,73,62,53,82,1
+Student_18,MERN,94,99,83,81,1
+Student_19,AI/ML,88,80,50,74,1
+Student_20,Web Dev,60,69,64,57,1
+Student_21,Web Dev,93,60,93,89,1
+Student_22,AI/ML,64,92,42,91,1
+Student_23,MERN,75,57,44,53,1
+Student_24,MERN,63,81,71,65,1
+Student_25,SQA,59,56,48,55,1
+Student_26,MERN,97,77,67,97,1
+Student_27,SQA,73,54,48,72,1
+Student_28,SQA,55,88,43,95,1
+Student_29,AI/ML,59,80,50,90,1
+Student_30,SQA,88,44,64,64,1

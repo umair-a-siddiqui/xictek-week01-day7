@@ -1,0 +1,9 @@
+___Requirements of Day 7 Task___
+
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+pydantic
