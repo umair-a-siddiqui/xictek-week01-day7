@@ -1,6 +1,6 @@
 # Day 7 - Deploy ML Model as an API
 
-HisabDo AI/ML Internship
+Xictek Systems AI/ML Internship
 Intern: Umair Ahmed Siddiqui
 
 ## Objective
